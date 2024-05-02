@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "FY-BIO-Photo.JPG"
-  name             : "Your Sidebar Name"
+  avatar           : "images/FY-BIO-Photo.JPG"
+  name             : "Fangzhou You"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "United Kingdom"
+  employer         : "University Of York"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fangzhou.you@york.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
